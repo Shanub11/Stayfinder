@@ -1,0 +1,16 @@
+# Backend dependencies
+express
+mongoose
+cors
+dotenv
+body-parser
+bcryptjs
+jsonwebtoken
+multer
+express-validator
+
+# For development (optional)
+nodemon
+
+# If you use ES modules (import/export syntax)
+esm
