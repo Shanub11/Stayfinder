@@ -85,6 +85,6 @@ connectDB().then(() => {
 // Error handling for unhandled promise rejections
 process.on('unhandledRejection', (err) => {
   console.error('Unhandled Rejection:', err);
-  // You might want to exit the process in production
-  // process.exit(1);
+  
+  
 });
